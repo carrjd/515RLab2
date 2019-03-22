@@ -4,8 +4,8 @@
 
 #include <ESP8266WiFi.h>
  
-const char* ssid = "WobblyHouse";
-const char* password = "5w0rd5gun5&danc1ng";
+const char* ssid = "";
+const char* password = "";
  
 int YEL = 16; // led connected to D0 (Yellow)
 int RE = 15; // led connected to D8 (Red)
